@@ -14,6 +14,9 @@ from collections import defaultdict
 import multiprocessing as mp
 from contextlib import contextmanager
 
+PROJETO_DIR = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJETO_DIR / "data"
+
 # ==============================
 # CLASSE DE CORES E FORMATAÇÃO
 # ==============================
@@ -2348,7 +2351,7 @@ def main():
     times_base = criar_times_base()
     print(f"\n✅ {len(times_base)} times carregados")
 
-    arquivo_calendario = "calendario_league_two.csv"
+    arquivo_calendario = DATA_DIR / "calendario_league_two.csv"
     try:
         print(f"\n📅 Carregando calendário: {arquivo_calendario}")
         jogos = carregar_calendario(arquivo_calendario)
