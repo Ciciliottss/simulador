@@ -1,0 +1,553 @@
+rodada,time_casa,time_fora,gols_casa,gols_fora
+1,Walsall,Swindon Town,1,1
+1,Colchester,Tranmere Rovers,2,2
+1,Bristol Rovers,Harrogate Town,2,2
+1,Accrington,Gillingham,1,2
+1,Chesterfield,Barrow,0,1
+1,Shrewsbury,Bromley FC,1,4
+1,Newport County,Notts County,2,2
+1,Barnet,Fleetwood Town,1,3
+1,MK Dons,Oldham Athletic,1,1
+1,Grimsby Town,Crawley Town,0,1
+1,Salford City,Crewe Alexandra,0,1
+1,Cambridge United,Cheltenham Town,0,3
+2,Notts County,Salford City,3,0
+2,Tranmere Rovers,Shrewsbury,1,1
+2,Swindon Town,Cambridge United,2,0
+2,Barrow,MK Dons,0,1
+2,Gillingham,Walsall,1,0
+2,Crawley Town,Newport County,2,0
+2,Harrogate Town,Grimsby Town,0,1
+2,Crewe Alexandra,Accrington,0,1
+2,Fleetwood Town,Bristol Rovers,1,2
+2,Bromley FC,Barnet,2,1
+2,Oldham Athletic,Colchester,1,2
+2,Cheltenham Town,Chesterfield,2,2
+3,Chesterfield,Bristol Rovers,0,1
+3,Oldham Athletic,Swindon Town,1,1
+3,Shrewsbury,Colchester,1,1
+3,Barrow,Notts County,0,1
+3,Cambridge United,Harrogate Town,1,1
+3,Barnet,Walsall,1,2
+3,Crewe Alexandra,Crawley Town,1,1
+3,MK Dons,Cheltenham Town,1,1
+3,Grimsby Town,Newport County,1,1
+3,Bromley FC,Fleetwood Town,1,1
+3,Tranmere Rovers,Gillingham,1,2
+3,Salford City,Accrington,1,1
+4,Newport County,Salford City,2,1
+4,Crawley Town,MK Dons,2,0
+4,Bristol Rovers,Oldham Athletic,2,1
+4,Swindon Town,Barnet,1,2
+4,Fleetwood Town,Crewe Alexandra,2,3
+4,Gillingham,Chesterfield,1,2
+4,Accrington,Tranmere Rovers,2,1
+4,Colchester,Cambridge United,0,1
+4,Notts County,Shrewsbury,1,0
+4,Cheltenham Town,Bromley FC,1,2
+4,Harrogate Town,Barrow,1,1
+4,Walsall,Grimsby Town,1,0
+5,Newport County,MK Dons,1,2
+5,Walsall,Salford City,1,1
+5,Crawley Town,Tranmere Rovers,2,1
+5,Accrington,Grimsby Town,2,2
+5,Bristol Rovers,Cambridge United,1,2
+5,Gillingham,Crewe Alexandra,3,1
+5,Swindon Town,Shrewsbury,2,1
+5,Fleetwood Town,Oldham Athletic,0,0
+5,Harrogate Town,Chesterfield,1,3
+5,Cheltenham Town,Barnet,1,2
+5,Notts County,Bromley FC,2,1
+5,Colchester,Barrow,0,1
+6,Salford City,Cheltenham Town,2,1
+6,Barrow,Fleetwood Town,1,1
+6,Crewe Alexandra,Swindon Town,2,2
+6,Tranmere Rovers,Notts County,0,1
+6,MK Dons,Walsall,1,0
+6,Shrewsbury,Accrington,2,0
+6,Bromley FC,Harrogate Town,2,0
+6,Cambridge United,Newport County,0,1
+6,Oldham Athletic,Gillingham,1,1
+6,Barnet,Colchester,2,1
+6,Chesterfield,Crawley Town,1,0
+6,Grimsby Town,Bristol Rovers,0,3
+7,Newport County,Bristol Rovers,1,1
+7,Salford City,Tranmere Rovers,1,1
+7,Cambridge United,Oldham Athletic,2,1
+7,Harrogate Town,Crawley Town,1,0
+7,Barrow,Swindon Town,1,0
+7,Colchester,Crewe Alexandra,1,1
+7,Cheltenham Town,Accrington,1,2
+7,MK Dons,Grimsby Town,0,2
+7,Notts County,Fleetwood Town,2,2
+7,Walsall,Chesterfield,0,2
+7,Barnet,Shrewsbury,1,3
+7,Bromley FC,Gillingham,4,2
+8,Accrington,Colchester,1,1
+8,Crawley Town,Cheltenham Town,3,3
+8,Grimsby Town,Cambridge United,2,2
+8,Gillingham,Notts County,2,3
+8,Bristol Rovers,Barrow,0,1
+8,Chesterfield,MK Dons,1,3
+8,Fleetwood Town,Walsall,0,1
+8,Tranmere Rovers,Newport County,0,0
+8,Crewe Alexandra,Barnet,0,1
+8,Shrewsbury,Salford City,2,1
+8,Swindon Town,Harrogate Town,1,1
+8,Oldham Athletic,Bromley FC,0,0
+9,Harrogate Town,Shrewsbury,0,2
+9,Cambridge United,Fleetwood Town,1,1
+9,Walsall,Tranmere Rovers,1,0
+9,Colchester,Bristol Rovers,1,0
+9,Notts County,Crawley Town,1,0
+9,Bromley FC,Chesterfield,3,3
+9,Salford City,Swindon Town,1,2
+9,Barrow,Crewe Alexandra,1,0
+9,Newport County,Gillingham,1,2
+9,MK Dons,Accrington,4,1
+9,Cheltenham Town,Oldham Athletic,1,0
+9,Barnet,Grimsby Town,2,1
+10,Crewe Alexandra,Notts County,0,3
+10,Oldham Athletic,Barnet,1,3
+10,Chesterfield,Newport County,2,1
+10,Crawley Town,Barrow,2,1
+10,Grimsby Town,Cheltenham Town,2,1
+10,Accrington,Walsall,0,3
+10,Tranmere Rovers,Cambridge United,2,1
+10,Fleetwood Town,Colchester,0,0
+10,Bristol Rovers,Salford City,4,3
+10,Shrewsbury,MK Dons,1,1
+10,Swindon Town,Bromley FC,2,1
+10,Gillingham,Harrogate Town,1,1
+11,Newport County,Swindon Town,2,2
+11,Walsall,Bristol Rovers,1,1
+11,Cambridge United,Crawley Town,1,2
+11,Colchester,Chesterfield,3,0
+11,Notts County,Oldham Athletic,1,3
+11,Bromley FC,Tranmere Rovers,0,2
+11,Barnet,Accrington,1,0
+11,MK Dons,Gillingham,2,1
+11,Salford City,Grimsby Town,1,2
+11,Cheltenham Town,Fleetwood Town,1,3
+11,Barrow,Shrewsbury,2,1
+11,Harrogate Town,Crewe Alexandra,1,1
+12,Accrington,Newport County,,
+12,Grimsby Town,Colchester,,
+12,Gillingham,Cheltenham Town,,
+12,Crawley Town,Walsall,,
+12,Tranmere Rovers,Barnet,,
+12,Chesterfield,Salford City,,
+12,Shrewsbury,Cambridge United,,
+12,Crewe Alexandra,Bromley FC,,
+12,Oldham Athletic,Barrow,,
+12,Fleetwood Town,Harrogate Town,,
+12,Swindon Town,Notts County,,
+12,Bristol Rovers,MK Dons,,
+13,Barnet,Notts County,,
+13,Bristol Rovers,Tranmere Rovers,,
+13,Walsall,Barnet,,
+13,Shrewsbury,Crawley Town,,
+13,Newport County,Cheltenham Town,,
+13,Accrington,Swindon Town,,
+13,Grimsby Town,Gillingham,,
+13,Colchester,Harrogate Town,,
+13,Chesterfield,Fleetwood Town,,
+13,Cambridge United,Bromley FC,,
+13,MK Dons,Crewe Alexandra,,
+13,Salford City,Oldham Athletic,,
+14,Cheltenham Town,Walsall,,
+14,Gillingham,Salford City,,
+14,Harrogate Town,Newport County,,
+14,Crewe Alexandra,Grimsby Town,,
+14,Tranmere Rovers,Chesterfield,,
+14,Notts County,Cambridge United,,
+14,Oldham Athletic,Shrewsbury,,
+14,Fleetwood Town,Accrington,,
+14,Barrow,Barnet,,
+14,Bromley FC,MK Dons,,
+14,Crawley Town,Bristol Rovers,,
+14,Swindon Town,Colchester,,
+15,Barrow,Grimsby Town,,
+15,Crewe Alexandra,Shrewsbury,,
+15,Chesterfield,Accrington,,
+15,Swindon Town,Tranmere Rovers,,
+15,Cheltenham Town,Notts County,,
+15,Newport County,Walsall,,
+15,Crawley Town,Fleetwood Town,,
+15,Salford City,Cambridge United,,
+15,Barnet,MK Dons,,
+15,Harrogate Town,Oldham Athletic,,
+15,Bristol Rovers,Gillingham,,
+15,Colchester,Bromley FC,,
+16,Grimsby Town,Chesterfield,,
+16,Tranmere Rovers,Cheltenham Town,,
+16,Bromley FC,Barrow,,
+16,Oldham Athletic,Crewe Alexandra,,
+16,Fleetwood Town,Swindon Town,,
+16,Walsall,Colchester,,
+16,Shrewsbury,Newport County,,
+16,MK Dons,Salford City,,
+16,Notts County,Harrogate Town,,
+16,Cambridge United,Barnet,,
+16,Accrington,Bristol Rovers,,
+16,Gillingham,Crawley Town,,
+17,Barrow,Cambridge United,,
+17,Tranmere Rovers,MK Dons,,
+17,Swindon Town,Grimsby Town,,
+17,Crewe Alexandra,Chesterfield,,
+17,Gillingham,Barnet,,
+17,Cheltenham Town,Bristol Rovers,,
+17,Fleetwood Town,Shrewsbury,,
+17,Bromley FC,Salford City,,
+17,Harrogate Town,Walsall,,
+17,Crawley Town,Accrington,,
+17,Oldham Athletic,Newport County,,
+17,Notts County,Colchester,,
+18,Bristol Rovers,Notts County,,
+18,Chesterfield,Swindon Town,,
+18,Colchester,Cheltenham Town,,
+18,Walsall,Bromley FC,,
+18,MK Dons,Fleetwood Town,,
+18,Newport County,Barrow,,
+18,Shrewsbury,Gillingham,,
+18,Accrington,Oldham Athletic,,
+18,Cambridge United,Crewe Alexandra,,
+18,Barnet,Harrogate Town,,
+18,Salford City,Crawley Town,,
+18,Grimsby Town,Tranmere Rovers,,
+19,Swindon Town,Cheltenham Town,,
+19,Cambridge United,Chesterfield,,
+19,Crewe Alexandra,Newport County,,
+19,Oldham Athletic,Walsall,,
+19,Shrewsbury,Grimsby Town,,
+19,Bromley FC,Crawley Town,,
+19,Fleetwood Town,Salford City,,
+19,Barrow,Tranmere Rovers,,
+19,Notts County,MK Dons,,
+19,Colchester,Gillingham,,
+19,Harrogate Town,Accrington,,
+19,Barnet,Bristol Rovers,,
+20,MK Dons,Cambridge United,,
+20,Grimsby Town,Notts County,,
+20,Crawley Town,Oldham Athletic,,
+20,Bristol Rovers,Swindon Town,,
+20,Gillingham,Barrow,,
+20,Salford City,Colchester,,
+20,Chesterfield,Barnet,,
+20,Walsall,Shrewsbury,,
+20,Newport County,Fleetwood Town,,
+20,Cheltenham Town,Harrogate Town,,
+20,Tranmere Rovers,Crewe Alexandra,,
+20,Accrington,Bromley FC,,
+21,Cambridge United,Accrington,,
+21,Barrow,Cheltenham Town,,
+21,Harrogate Town,MK Dons,,
+21,Crewe Alexandra,Bristol Rovers,,
+21,Barnet,Salford City,,
+21,Bromley FC,Grimsby Town,,
+21,Shrewsbury,Chesterfield,,
+21,Fleetwood Town,Gillingham,,
+21,Colchester,Newport County,,
+21,Swindon Town,Crawley Town,,
+21,Oldham Athletic,Tranmere Rovers,,
+21,Notts County,Walsall,,
+22,Grimsby Town,Oldham Athletic,,
+22,MK Dons,Swindon Town,,
+22,Cheltenham Town,Shrewsbury,,
+22,Gillingham,Cambridge United,,
+22,Accrington,Barrow,,
+22,Crawley Town,Colchester,,
+22,Chesterfield,Notts County,,
+22,Newport County,Barnet,,
+22,Walsall,Crewe Alexandra,,
+22,Bristol Rovers,Bromley FC,,
+22,Tranmere Rovers,Fleetwood Town,,
+22,Salford City,Harrogate Town,,
+23,Newport County,Crewe Alexandra,,
+23,Chesterfield,Cambridge United,,
+23,Accrington,Harrogate Town,,
+23,Walsall,Oldham Athletic,,
+23,Bristol Rovers,Barnet,,
+23,MK Dons,Notts County,,
+23,Gillingham,Colchester,,
+23,Tranmere Rovers,Barrow,,
+23,Cheltenham Town,Swindon Town,,
+23,Grimsby Town,Shrewsbury,,
+23,Crawley Town,Bromley FC,,
+23,Salford City,Fleetwood Town,,
+24,Harrogate Town,Tranmere Rovers,,
+24,Fleetwood Town,Grimsby Town,,
+24,Shrewsbury,Bristol Rovers,,
+24,Bromley FC,Newport County,,
+24,Crewe Alexandra,Cheltenham Town,,
+24,Notts County,Accrington,,
+24,Barrow,Salford City,,
+24,Cambridge United,Walsall,,
+24,Colchester,MK Dons,,
+24,Oldham Athletic,Chesterfield,,
+24,Barnet,Crawley Town,,
+24,Swindon Town,Gillingham,,
+25,Newport County,Tranmere Rovers,,
+25,Cambridge United,Grimsby Town,,
+25,Barrow,Bristol Rovers,,
+25,Walsall,Fleetwood Town,,
+25,Barnet,Crewe Alexandra,,
+25,Notts County,Gillingham,,
+25,Cheltenham Town,Crawley Town,,
+25,Bromley FC,Oldham Athletic,,
+25,Harrogate Town,Swindon Town,,
+25,Colchester,Accrington,,
+25,MK Dons,Chesterfield,,
+25,Salford City,Shrewsbury,,
+26,Gillingham,MK Dons,,
+26,Fleetwood Town,Cheltenham Town,,
+26,Shrewsbury,Barrow,,
+26,Grimsby Town,Salford City,,
+26,Oldham Athletic,Notts County,,
+26,Crawley Town,Cambridge United,,
+26,Swindon Town,Newport County,,
+26,Chesterfield,Colchester,,
+26,Crewe Alexandra,Harrogate Town,,
+26,Bristol Rovers,Walsall,,
+26,Accrington,Barnet,,
+26,Tranmere Rovers,Bromley FC,,
+27,Tranmere Rovers,Walsall,,
+27,Grimsby Town,Barnet,,
+27,Swindon Town,Salford City,,
+27,Fleetwood Town,Cambridge United,,
+27,Gillingham,Newport County,,
+27,Shrewsbury,Harrogate Town,,
+27,Crewe Alexandra,Barrow,,
+27,Oldham Athletic,Cheltenham Town,,
+27,Crawley Town,Notts County,,
+27,Accrington,MK Dons,,
+27,Chesterfield,Bromley FC,,
+27,Bristol Rovers,Colchester,,
+28,Cambridge United,Tranmere Rovers,,
+28,Bromley FC,Swindon Town,,
+28,Barnet,Oldham Athletic,,
+28,Notts County,Crewe Alexandra,,
+28,Cheltenham Town,Grimsby Town,,
+28,Newport County,Chesterfield,,
+28,Barrow,Crawley Town,,
+28,Colchester,Fleetwood Town,,
+28,MK Dons,Shrewsbury,,
+28,Walsall,Accrington,,
+28,Harrogate Town,Gillingham,,
+28,Salford City,Bristol Rovers,,
+29,Newport County,Accrington,,
+29,Notts County,Swindon Town,,
+29,Salford City,Chesterfield,,
+29,Barrow,Oldham Athletic,,
+29,Cambridge United,Shrewsbury,,
+29,Harrogate Town,Fleetwood Town,,
+29,Bromley FC,Crewe Alexandra,,
+29,Colchester,Grimsby Town,,
+29,Walsall,Crawley Town,,
+29,MK Dons,Bristol Rovers,,
+29,Cheltenham Town,Gillingham,,
+29,Barnet,Tranmere Rovers,,
+30,Crewe Alexandra,Colchester,,
+30,Gillingham,Bromley FC,,
+30,Fleetwood Town,Notts County,,
+30,Oldham Athletic,Cambridge United,,
+30,Shrewsbury,Barnet,,
+30,Accrington,Cheltenham Town,,
+30,Chesterfield,Walsall,,
+30,Swindon Town,Barrow,,
+30,Crawley Town,Harrogate Town,,
+30,Grimsby Town,MK Dons,,
+30,Bristol Rovers,Newport County,,
+30,Tranmere Rovers,Salford City,,
+31,Walsall,Barnet,,
+31,Notts County,Barrow,,
+31,Newport County,Grimsby Town,,
+31,Fleetwood Town,Bromley FC,,
+31,Accrington,Salford City,,
+31,Harrogate Town,Cambridge United,,
+31,Crawley Town,Crewe Alexandra,,
+31,Swindon Town,Oldham Athletic,,
+31,Bristol Rovers,Chesterfield,,
+31,Gillingham,Tranmere Rovers,,
+31,Cheltenham Town,MK Dons,,
+31,Colchester,Shrewsbury,,
+32,Crewe Alexandra,Gillingham,,
+32,Cambridge United,Bristol Rovers,,
+32,Barrow,Colchester,,
+32,Bromley FC,Notts County,,
+32,Barnet,Chesterfield,,
+32,Oldham Athletic,Fleetwood Town,,
+32,Salford City,Walsall,,
+32,Tranmere Rovers,Crawley Town,,
+32,Chesterfield,Harrogate Town,,
+32,Grimsby Town,Accrington,,
+32,MK Dons,Newport County,,
+32,Shrewsbury,Swindon Town,,
+33,Shrewsbury,Notts County,,
+33,Crewe Alexandra,Fleetwood Town,,
+33,Salford City,Newport County,,
+33,Barrow,Harrogate Town,,
+33,MK Dons,Crawley Town,,
+33,Oldham Athletic,Bristol Rovers,,
+33,Tranmere Rovers,Accrington,,
+33,Grimsby Town,Walsall,,
+33,Chesterfield,Gillingham,,
+33,Bromley FC,Cheltenham Town,,
+33,Barnet,Swindon Town,,
+33,Cambridge United,Colchester,,
+34,Notts County,Tranmere Rovers,,
+34,Gillingham,Oldham Athletic,,
+34,Walsall,MK Dons,,
+34,Newport County,Cambridge United,,
+34,Harrogate Town,Bromley FC,,
+34,Cheltenham Town,Salford City,,
+34,Accrington,Shrewsbury,,
+34,Swindon Town,Crewe Alexandra,,
+34,Colchester,Barnet,,
+34,Fleetwood Town,Barrow,,
+34,Bristol Rovers,Grimsby Town,,
+34,Crawley Town,Chesterfield,,
+35,Harrogate Town,Cheltenham Town,,
+35,Barnet,Chesterfield,,
+35,Barrow,Gillingham,,
+35,Bromley FC,Accrington,,
+35,Fleetwood Town,Newport County,,
+35,Shrewsbury,Walsall,,
+35,Cambridge United,MK Dons,,
+35,Swindon Town,Bristol Rovers,,
+35,Oldham Athletic,Crawley Town,,
+35,Crewe Alexandra,Tranmere Rovers,,
+35,Colchester,Salford City,,
+35,Notts County,Grimsby Town,,
+36,Cheltenham Town,Barrow,,
+36,Salford City,Barnet,,
+36,Walsall,Notts County,,
+36,Accrington,Cambridge United,,
+36,Grimsby Town,Bromley FC,,
+36,Bristol Rovers,Crewe Alexandra,,
+36,MK Dons,Harrogate Town,,
+36,Newport County,Colchester,,
+36,Tranmere Rovers,Oldham Athletic,,
+36,Chesterfield,Shrewsbury,,
+36,Gillingham,Fleetwood Town,,
+36,Crawley Town,Swindon Town,,
+37,Colchester,Crawley Town,,
+37,Barnet,Newport County,,
+37,Barrow,Accrington,,
+37,Swindon Town,MK Dons,,
+37,Oldham Athletic,Grimsby Town,,
+37,Harrogate Town,Salford City,,
+37,Crewe Alexandra,Walsall,,
+37,Cambridge United,Gillingham,,
+37,Shrewsbury,Cheltenham Town,,
+37,Fleetwood Town,Tranmere Rovers,,
+37,Bromley FC,Bristol Rovers,,
+37,Notts County,Chesterfield,,
+38,Newport County,Bromley FC,,
+38,Walsall,Cambridge United,,
+38,Cheltenham Town,Crewe Alexandra,,
+38,Salford City,Barrow,,
+38,Chesterfield,Oldham Athletic,,
+38,Crawley Town,Barnet,,
+38,Tranmere Rovers,Harrogate Town,,
+38,Gillingham,Swindon Town,,
+38,Bristol Rovers,Shrewsbury,,
+38,Grimsby Town,Fleetwood Town,,
+38,Accrington,Notts County,,
+38,MK Dons,Colchester,,
+39,Walsall,Newport County,,
+39,MK Dons,Barnet,,
+39,Fleetwood Town,Crawley Town,,
+39,Cambridge United,Salford City,,
+39,Accrington,Chesterfield,,
+39,Shrewsbury,Crewe Alexandra,,
+39,Oldham Athletic,Harrogate Town,,
+39,Grimsby Town,Barrow,,
+39,Tranmere Rovers,Swindon Town,,
+39,Gillingham,Bristol Rovers,,
+39,Notts County,Cheltenham Town,,
+39,Bromley FC,Colchester,,
+40,Cheltenham Town,Tranmere Rovers,,
+40,Chesterfield,Grimsby Town,,
+40,Crawley Town,Gillingham,,
+40,Bristol Rovers,Accrington,,
+40,Colchester,Walsall,,
+40,Barrow,Bromley FC,,
+40,Newport County,Shrewsbury,,
+40,Swindon Town,Fleetwood Town,,
+40,Harrogate Town,Notts County,,
+40,Barnet,Cambridge United,,
+40,Crewe Alexandra,Oldham Athletic,,
+40,Salford City,MK Dons,,
+41,MK Dons,Barrow,,
+41,Barnet,Bromley FC,,
+41,Colchester,Oldham Athletic,,
+41,Grimsby Town,Harrogate Town,,
+41,Newport County,Crawley Town,,
+41,Chesterfield,Cheltenham Town,,
+41,Bristol Rovers,Fleetwood Town,,
+41,Walsall,Gillingham,,
+41,Salford City,Notts County,,
+41,Shrewsbury,Tranmere Rovers,,
+41,Accrington,Crewe Alexandra,,
+41,Cambridge United,Swindon Town,,
+42,Bromley FC,Shrewsbury,,
+42,Crewe Alexandra,Salford City,,
+42,Fleetwood Town,Barnet,,
+42,Harrogate Town,Bristol Rovers,,
+42,Gillingham,Accrington,,
+42,Swindon Town,Walsall,,
+42,Tranmere Rovers,Colchester,,
+42,Barrow,Chesterfield,,
+42,Oldham Athletic,MK Dons,,
+42,Cheltenham Town,Cambridge United,,
+42,Notts County,Newport County,,
+42,Crawley Town,Grimsby Town,,
+43,Colchester,Swindon Town,,
+43,Barnet,Barrow,,
+43,Salford City,Gillingham,,
+43,Grimsby Town,Crewe Alexandra,,
+43,Bristol Rovers,Crawley Town,,
+43,Newport County,Harrogate Town,,
+43,Walsall,Cheltenham Town,,
+43,Chesterfield,Tranmere Rovers,,
+43,MK Dons,Bromley FC,,
+43,Accrington,Fleetwood Town,,
+43,Cambridge United,Notts County,,
+43,Shrewsbury,Oldham Athletic,,
+44,Bromley FC,Cambridge United,,
+44,Crawley Town,Shrewsbury,,
+44,Swindon Town,Accrington,,
+44,Barrow,Walsall,,
+44,Tranmere Rovers,Bristol Rovers,,
+44,Gillingham,Grimsby Town,,
+44,Crewe Alexandra,MK Dons,,
+44,Cheltenham Town,Newport County,,
+44,Oldham Athletic,Salford City,,
+44,Notts County,Barnet,,
+44,Harrogate Town,Colchester,,
+44,Fleetwood Town,Chesterfield,,
+45,Barnet,Gillingham,,
+45,Salford City,Bromley FC,,
+45,Colchester,Notts County,,
+45,Chesterfield,Crewe Alexandra,,
+45,Grimsby Town,Swindon Town,,
+45,Bristol Rovers,Cheltenham Town,,
+45,Accrington,Crawley Town,,
+45,MK Dons,Tranmere Rovers,,
+45,Newport County,Oldham Athletic,,
+45,Walsall,Harrogate Town,,
+45,Shrewsbury,Fleetwood Town,,
+45,Cambridge United,Barrow,,
+46,Barrow,Newport County,,
+46,Bromley FC,Walsall,,
+46,Swindon Town,Chesterfield,,
+46,Oldham Athletic,Accrington,,
+46,Crawley Town,Salford City,,
+46,Harrogate Town,Barnet,,
+46,Tranmere Rovers,Grimsby Town,,
+46,Cheltenham Town,Colchester,,
+46,Gillingham,Shrewsbury,,
+46,Crewe Alexandra,Cambridge United,,
+46,Notts County,Bristol Rovers,,
+46,Fleetwood Town,MK Dons,,
